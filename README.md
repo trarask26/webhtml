@@ -1,1 +1,10 @@
 # webhtml
+![Alt Text](https://github.com/trarask26/webhtml/blob/master/Latihan%202.html)
+![Alt Text](https://github.com/trarask26/webhtml/blob/master/Latihan%203.html)
+![Alt Text](https://github.com/trarask26/webhtml/blob/master/PERCOBAAN1.html)
+![Alt Text](https://github.com/trarask26/webhtml/blob/master/Pembukan%20UUD%201945.html)
+![Alt Text](https://github.com/trarask26/webhtml/blob/master/Resep%20Kue%20Maryam.html)
+![Alt Text](https://github.com/trarask26/webhtml/blob/master/Untitled-1.html)
+![Alt Text](https://github.com/trarask26/webhtml/blob/master/latihan%204.html)
+![Alt Text](https://github.com/trarask26/webhtml/blob/master/pancasila.html)
+![Alt Text](https://github.com/trarask26/webhtml/blob/master/tugas%20praktikum%203.html)
